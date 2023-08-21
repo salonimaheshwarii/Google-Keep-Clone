@@ -18,7 +18,7 @@ const Heading = styled(Typography)`
 
 
 const HeaderBar = ({ open, handleDrawer }) => {
-  const logo = 'https://seeklogo.com/images/G/google-keep-logo-0BC92EBBBD-seeklogo.com.png';
+  const logo = 'https://image.winudf.com/v2/image1/Y29tLnpvaG8ubm90ZWJvb2tfaWNvbl8xNjc1OTU1NTQ2XzA0NA/icon.png?w=184&fakeurl=1';
   
   return (
     <Header open={open}>
